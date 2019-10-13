@@ -10,5 +10,5 @@ Example: The code to solve the challenge "Write a function" from chapter "Introd
 ##Introduction / Write a function
 
 
-Notes: I did not manage to complete XML and Regex Chapter solutions
+Notes: I did not manage to complete XML and Regex Chapter solutions. I coded most questions from spyder and tested input/output. There are some missing successfull submissions in the stamps file. 
 
